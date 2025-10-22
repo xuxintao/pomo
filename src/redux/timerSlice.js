@@ -21,17 +21,17 @@ const initialState = {
   modes: {
     [POMODORO]: {
       id: POMODORO,
-      label: "Pomodoro",
+      label: "Pomo",
       time: 25,
     },
     [SHORT_BREAK]: {
       id: SHORT_BREAK,
-      label: "Short Break",
+      label: "Short",
       time: 5,
     },
     [LONG_BREAK]: {
       id: LONG_BREAK,
-      label: "Long Break",
+      label: "Long",
       time: 15,
     },
   },
